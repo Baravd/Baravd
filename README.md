@@ -15,9 +15,6 @@ feel free to connect on [Linkedin](https://www.linkedin.com/in/valentin-daniel-b
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="50" height="50"/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Baravd)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baravd&layout=donut-vertical)]
 
 
 
